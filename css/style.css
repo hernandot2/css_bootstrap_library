@@ -1,5 +1,6 @@
 /* Fonts and colors */
 @import url("http://fonts.googleapis.com/css?family=Open+Sans");
+@import url("components/container.css");
 
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
