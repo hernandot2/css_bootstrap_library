@@ -53,3 +53,8 @@ box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
   margin:0;
 }
 
+.flex2{
+  display: flex;
+  flex: 1;
+  justify-content:space-between;
+}
